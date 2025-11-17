@@ -64,12 +64,21 @@ CASE 1
 CASE 2
 <img width="939" height="392" alt="image" src="https://github.com/user-attachments/assets/c6e82307-8431-459f-85c7-f1c08e5c934e" />
 
+
+
+
+
  
 
 CASE 3 
 <img width="940" height="385" alt="image" src="https://github.com/user-attachments/assets/4f811113-7e11-4810-b406-b346e7624ba6" />
 
+
+
+
 TABLE
+
+
 <img width="940" height="329" alt="image" src="https://github.com/user-attachments/assets/0c6e1a3d-978d-4779-a7c6-f913572350d9" />
 
  
